@@ -42,8 +42,8 @@ Im base on...
 
 
 
+----
 
-
-
+El porposito del YAML es pode rpublicar en github pages sin problemas
 
 
